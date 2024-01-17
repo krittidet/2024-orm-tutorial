@@ -9,7 +9,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-@Profile("db")
+//@Profile("db")
 @Repository
 @RequiredArgsConstructor
 public class EventDaoDbImpl implements EventDao {
